@@ -1,9 +1,10 @@
-![Profile Image](https://avatars.githubusercontent.com/u/158518323?v=4)) 
-
 # Hi there, I'm Ayush Kumar 👋  
 
+# Welcome to My GitHub!
 
-Welcome to my GitHub! I'm a passionate **React Developer** with a knack for creating dynamic and user-centric web applications. I enjoy building meaningful projects, exploring new technologies, and solving complex problems through code.  
+
+I'm a passionate **Software Engineer** with an **urge** of creating dynamic and user-centric web applications. I enjoy building meaningful projects, exploring new technologies, and solving complex problems through code.  
+
 
 ---
 
@@ -19,7 +20,7 @@ Welcome to my GitHub! I'm a passionate **React Developer** with a knack for crea
 ## 💻 Projects 
 
 ### ✨ **[PixPulse](https://pix-pulse-react-app.vercel.app/)**  
-A social media website built with React.js and Tailwind CSS, featuring user authentication, profile management, and responsive design.  
+A social media website built with React.js and Tailwind CSS, and Appwrite . featuring user authentication, profile management, and responsive design.  
 
 ### 🤖 **[Gemini AI Clone](https://gemini-clone-react-weld.vercel.app/)**  
 A conversational AI clone using React.js, Tailwind CSS, and Redux for state management.  
@@ -35,8 +36,8 @@ An algorithmic visualizer that showcases the backtracking approach to solving th
 ## ⚙️ Technologies & Tools  
 - **Languages**: JavaScript, HTML, CSS, C++  
 - **Frontend**: React.js, Tailwind CSS, Redux  
-- **Backend**: Node.js, Appwrite  
-- **Tools**: Git, Vite , appwrite
+- **Backend**: Node.js, Appwrite , Postman
+- **Tools**: Git, Vite , appwrite , Vs Code
 
 ---
 
